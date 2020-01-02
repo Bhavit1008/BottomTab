@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Contact"
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_contact_phone_black_24dp"/>
+    <item
+        android:title="Groups"
+        android:id="@+id/groups"
+        android:icon="@drawable/ic_group_black_24dp"/>
+    <item
+        android:title="Favorites"
+        android:id="@+id/favorites"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+    <item
+        android:title="Blocks"
+        android:id="@+id/blocks"
+        android:icon="@drawable/ic_add_circle_outline_black_24dp"
+        />
+    <item
+        android:title="More"
+        android:id="@+id/more"
+        android:icon="@drawable/ic_photo_black_24dp"
+        />
+</menu>
